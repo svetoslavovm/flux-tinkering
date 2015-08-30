@@ -1,0 +1,16 @@
+{
+  "name": "flux-intro",
+  "version": "0.0.1",
+  "description": "Flux Tinkering",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Martin Svetoslavov",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "flux": "^2.1.1",
+    "object-assign": "^4.0.1"
+  }
+}
